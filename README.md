@@ -50,16 +50,6 @@ Sistema que processa automaticamente os resumos diários da **Bolsa de Dívida e
 
 ---
 
-## Como Trabalho
-
-1. Percebo o **problema real** — não apenas o que foi pedido, mas o porquê.
-2. Desenho uma solução **simples e fiável**, mesmo quando o sistema por baixo é complexo.
-3. Entrego de forma **iterativa**, com testes e validação a cada etapa.
-
-Preocupo-me mais em fazer o sistema funcionar correctamente do que em seguir modas tecnológicas que não encaixam no contexto.
-
----
-
 ##  As Minhas Ferramentas
 
 <table>
