@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Luívula%20Filipe&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20API%20Developer&descAlignY=58&descSize=18&descColor=a78bfa" width="100%" />
 </div>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=hemany404&theme=tokyonight)
+
 
 # Olá, sou o Luívula Filipe 👋
 
@@ -20,7 +20,7 @@ Fundador da **[Uendze](https://www.uendze.com)** — A primeira API REST que est
 ## O Que Construo
 
 - <img src="https://img.shields.io/badge/APIs_REST-FastAPI-009688?logo=fastapi&logoColor=white" /> Endpoints rápidos, seguros e bem documentados.
-- <img src="https://img.shields.io/badge/Autenticação-JWT_%7C_OAuth2-000000?logo=jsonwebtokens&logoColor=white" /> Sistemas de login, permissões e controlo de acesso.
+- <img src="https://img.shields.io/badge/Autenticação-JWT_%7C_OAuth2-000000?logo=jsonwebtokens&logoColor=white" /> Sistemas completos, permissões e controlo de acesso.
 - <img src="https://img.shields.io/badge/Dados-Análise_%26_Dashboards-150458?logo=pandas&logoColor=white" /> Processamento e visualização de dados.
 
 ##  As Minhas Ferramentas
@@ -34,14 +34,7 @@ Fundador da **[Uendze](https://www.uendze.com)** — A primeira API REST que est
       <img src="https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white" />
     </td>
   </tr>
-  <tr>
-    <td><strong>Segurança & Auth</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white" />
-      <img src="https://img.shields.io/badge/OAuth2-EB5424?logo=auth0&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bcrypt-4A4A4A?logo=letsencrypt&logoColor=white" />
-    </td>
-  </tr>
+
   <tr>
     <td><strong>Base de Dados & ORM</strong></td>
     <td>
