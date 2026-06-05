@@ -81,8 +81,8 @@ Fundador da **[Uendze](https://www.uendze.com)** — A primeira API REST que est
 ---
 
 ##  GitHub Stats
-![Top Langs](https://github-readme-stats-nine-iota-38.vercel.app/api/top-langs/?username=hemany404&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats-nine-iota-38.vercel.app/api/?username=hemany404&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats-nine-iota-38.vercel.app/api/top-langs/?username=hemany404&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_color=e4e2e2)
+![Top Langs](https://github-readme-stats-nine-iota-38.vercel.app/api/?username=hemany404&show_icons=true&locale=en&theme=tokyonight&border_color=e4e2e2&count_private=true)
 
 
 
