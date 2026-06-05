@@ -23,33 +23,6 @@ Fundador da **[Uendze](https://www.uendze.com)** — A primeira API REST que est
 - <img src="https://img.shields.io/badge/Autenticação-JWT_%7C_OAuth2-000000?logo=jsonwebtokens&logoColor=white" /> Sistemas de login, permissões e controlo de acesso.
 - <img src="https://img.shields.io/badge/Dados-Análise_%26_Dashboards-150458?logo=pandas&logoColor=white" /> Processamento e visualização de dados.
 
----
-
-## Projectos com Impacto
-
-### 1. Lepto Dashboard — Análise Financeira da BODIVA
-
-Sistema que processa automaticamente os resumos diários da **Bolsa de Dívida e Valores de Angola (BODIVA)**, gera relatórios e gráficos interativos sem intervenção manual.
-
--  Coleta e limpeza automática de dados
--  Dashboards com Streamlit + Plotly
--  `Python` · `Pandas` · `Streamlit` · `Plotly`
-
----
-
-### 2. Sistema de Prognósticos — Solução Encomendada
-
-> Uma empresa encontrou um dos meus repositórios no GitHub e solicitou uma solução personalizada.
-
--  Autenticação com JWT, OAuth2 e Bcrypt
--  Assinaturas com diferentes planos de acesso
--  Notificações automáticas via **Resend**
--  Área do cliente com acesso controlado por plano
--  Painel admin com aprovação de pagamentos e gestão total
--  `Python` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `JWT` · `Pydantic` ·  `Resend`
-
----
-
 ##  As Minhas Ferramentas
 
 <table>
