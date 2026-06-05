@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Luívula%20Filipe&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20API%20Developer&descAlignY=58&descSize=18&descColor=a78bfa" width="100%" />
 </div>
 
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=hemany404&theme=tokyonight)
 
 # Olá, sou o Luívula Filipe 👋
 
