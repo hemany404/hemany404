@@ -6,7 +6,7 @@
 
 # Olá, sou o Luívula Filipe 👋
 
-Construo **APIs e sistemas backend que funcionam de verdade**.  
+Construo **APIs e sistemas backend**.  
 Foco em **resolver problemas com impacto real** — onde os dados importam.
 
 Mas também me preocupo em manter o **código limpo, legível e fácil de evoluir**..
